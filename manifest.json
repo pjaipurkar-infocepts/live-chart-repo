@@ -1,0 +1,6 @@
+{
+  "name": "live-chart-app",
+  "short_name": "live-chart-app",
+  "start_url": "/",
+  "display": "standalone"
+}
